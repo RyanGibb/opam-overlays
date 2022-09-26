@@ -14,14 +14,15 @@ depends: [
   "ocaml" {>= "4.02.0"}
   "dune" {>= "2.6"}
   "conf-m4"
+  "processor" {>= "0.1"}
 ]
 synopsis: "The GNU Multiple Precision Arithmetic Library"
 description: """Dune packaging of the GMP library, suitable for 
 cross-compilation."""
 url {
   src:
-    "https://github.com/RyanGibb/ocaml-gmp/archive/refs/tags/testing3.tar.gz"
+    "https://github.com/RyanGibb/ocaml-gmp/archive/refs/tags/testing4.tar.gz"
   checksum: [
-    "sha256=afef5d90c118e951ec97fc30d8e05a634512cdd7e5292c7cf53cb3df5e67ff6c"
+    "sha256=0311d9051fe881b58474f972f24755c57e1c2f674364f47d064724218475bd9d"
   ]
 }
