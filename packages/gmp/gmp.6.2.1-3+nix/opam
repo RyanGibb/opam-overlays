@@ -21,8 +21,8 @@ description: """Dune packaging of the GMP library, suitable for
 cross-compilation."""
 url {
   src:
-    "https://github.com/RyanGibb/ocaml-gmp/archive/refs/tags/testing4.tar.gz"
+    "https://github.com/RyanGibb/ocaml-gmp/archive/refs/tags/testing5.tar.gz"
   checksum: [
-    "sha256=0311d9051fe881b58474f972f24755c57e1c2f674364f47d064724218475bd9d"
+    "sha256=baa45c9b5dd887c93bfc0bf6ede8521ef05b97b0f2e1108125cac08f42c7ee04"
   ]
 }
